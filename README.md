@@ -1,21 +1,11 @@
 ## Chagas aqui, seja bem vindo!
 
 ![Beatriz-Chagas GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-chagas&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-chagas&layout=donut)](https://github.com/beatriz-chagas/github-readme-stats)
 
 ### Tecnologia em que estou me aprimorando
 
 <div style="display inline_block"><br/>
-
-
-
-
-
-
-
-
-
-
-
 
 <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img align="center" alt="androidstudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
