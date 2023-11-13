@@ -5,8 +5,10 @@
 - Atualmente cursando Desenvolvimento de Software na FATEC ZL.
 - Com o tempo eu irei melhorar esta página... E meu portfolio também.
 
-![Beatriz-Chagas GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-chagas&show_icons=true&theme=tokyonight)<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&username=beatriz-chagas" height="175" alt="languages graph"  />
-
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=beatriz-chagas" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&username=beatriz-chagas" height="175" alt="languages graph"  />
+</div> 
 
 ## Tecnologias em que estou me aprimorando
 
