@@ -1,4 +1,5 @@
 ## Chagas aqui, seja bem vindo!
+Com o tempo eu irei melhorar esta página... E meu portfolio também.
 
 ![Beatriz-Chagas GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-chagas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-chagas&layout=donut)](https://github.com/beatriz-chagas/github-readme-stats)
